@@ -1,4 +1,3 @@
-# hobby-html--vning
 # **Bygg din egen hobby-hemsida**
 
 I denna utmaning ska du skapa en enkel, statisk onepage-hemsida om en hobby eller ett intresse som du tycker om. Det kan vara något du brinner för, eller bara något du tycker är roligt. Exempel kan vara musik, spel, matlagning, sport, samlarobjekt eller trädgårdsarbete – valet är ditt!
